@@ -5,9 +5,9 @@ Description
 
 This project is for self-improvement and practice in order to provide myself with confidence within this industry.
 
-This back end for an e-commerce site was created by modifying starter code given to us.
+I wanted an API for my social network that uses a NoSQL database so that my website can handle large amounts of unstructured data.
 
-Express.js API and Sequelize was used to interact with a MySQL database.
+Express.js for routing, a MongoDB database, and the Mongoose ODM was used.
 
 Installation & Usage:
 
