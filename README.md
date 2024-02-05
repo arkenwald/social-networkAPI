@@ -47,13 +47,11 @@ https://github.com/pnguyen412
 
 Website Resources:
 
-https://www.npmjs.com/package/dotenv
+https://dev.to/franciscomendes10866/setup-mongodb-with-mongoose-and-express-4c58
 
-https://sequelize.org/docs/v6/core-concepts/model-querying-finders/
+https://getstream.io/blog/building-a-node-js-powered-api-with-express-mongoose-mongodb/
 
-https://sequelize.org/docs/v6/core-concepts/validations-and-constraints/
-
-https://sequelize.org/docs/v6/core-concepts/assocs/
+https://mongoosejs.com/docs/tutorials/findoneandupdate.html
 
 License
 
