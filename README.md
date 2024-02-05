@@ -9,27 +9,17 @@ This back end for an e-commerce site was created by modifying starter code given
 
 Express.js API and Sequelize was used to interact with a MySQL database.
 
-Installation
+Installation & Usage:
 
-To install the project:
+Clone the repository on github locally.
 
-npm i
+Install node modules through the command 'npm install'
 
-mysql source schema.sql
+Start the server using 'npm start' and open up insomnia
 
-npm run seed
+In Insomnia, navigate to http://localhost:3001/api/users to see all users. 
 
-npm start
-
-Usage
-
-WHEN I open API GET routes in Insomnia for categories, products, or tags
-
-THEN the data for each of these routes is displayed in a formatted JSON
-
-WHEN I test API POST, PUT, and DELETE routes in Insomnia
-
-THEN I am able to successfully create, update, and delete data in my database
+You can replace users with other end points to see their respective data.
 
 GitHub Repository:
 
@@ -37,7 +27,7 @@ https://github.com/arkenwald/social-networkAPI
 
 Video Walkthrough:
 
-https://drive.google.com/file/d/1ptA0LpeVrfBAq-DGmXkPAiK6RuCcYHFr/view
+
 
 Credits
 
