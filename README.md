@@ -33,7 +33,7 @@ THEN I am able to successfully create, update, and delete data in my database
 
 GitHub Repository:
 
-https://github.com/arkenwald/ORM-E-Commerce-Back-End
+https://github.com/arkenwald/social-networkAPI
 
 Video Walkthrough:
 
